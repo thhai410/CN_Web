@@ -6,7 +6,7 @@ Repository lưu trữ các bài tập thực hành và bài tập lớn thuộc 
 
 ## 📌 Giới thiệu Tổng quan
 
-- **Tác giả:** Vũ Thùy Dương
+- **Tác giả:** Doan Thanh Hai
 - **Tài khoản GitHub:** [vuthuyduong1505](https://github.com/vuthuyduong1505)
 - **Mục đích:** Hoàn thành các yêu cầu bài tập của môn học Công nghệ Web, bao gồm việc xây dựng giao diện web bằng HTML5, CSS3, cấu trúc Semantic HTML5, xử lý form đăng ký, tích hợp các phần tử đa phương tiện (Media) và tối ưu SEO cơ bản.
 
@@ -73,4 +73,4 @@ CN_Web/
    Chạy trực tiếp bất kỳ tệp `.html` nào (ví dụ `assignment_02/index_new.html`, `assignment_02/register.html`, `assignment_02/media.html`) bằng các trình duyệt web hiện đại như Google Chrome, Microsoft Edge hoặc Mozilla Firefox.
 
 ---
-*Bản quyền © 2026 - Vũ Thùy Dương*
+*Bản quyền © 2026 - Doan Thanh Hai*
